@@ -1,3 +1,7 @@
+persian-Guide: https://github.com/MehdiBaneshiOfficial/OAPM/blob/main/persianREADME.md
+
+
+
 # 🔑 Open AG Patcher (English Guide)
 
 Open-source patcher for Antigravity IDE and the standalone Antigravity app: removes regional restrictions without a VPN and without changing your Google account region. This is an open-source equivalent of the "Antigravity IDE in Russia without VPN and without changing Google account region" utility.
